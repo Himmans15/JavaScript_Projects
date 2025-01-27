@@ -60,4 +60,4 @@ Welcome to my collection of JavaScript mini projects! This repository contains v
 2. Navigate to the Projects directory:
 
    ```bash
-   cd JavaScripts-
+   cd JavaScripts-mini-projects
