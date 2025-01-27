@@ -61,3 +61,10 @@ Welcome to my collection of JavaScript mini projects! This repository contains v
 
    ```bash
    cd JavaScripts-mini-projects
+
+## Usage
+
+1. Each project is standalone, and you can simply open the index.html file in your browser to see it in action.
+  
+2. Check the specific project section for instructions on how to run or interact with each project.
+   
