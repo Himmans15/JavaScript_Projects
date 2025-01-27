@@ -56,4 +56,8 @@ Welcome to my collection of JavaScript mini projects! This repository contains v
 
    ```bash
    git clone https://github.com/your-username/javascript-mini-projects.git
-2.
+   
+2. Navigate to the Projects directory:
+
+   ```bash
+   cd JavaScripts-
