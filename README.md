@@ -4,7 +4,7 @@ Welcome to my collection of JavaScript mini projects! This repository contains v
 
 ## Table of Contents
 
-- [Project 1: Project Name](#project-1-project-name)
+- [Project 1: Project Name](#project-1-Rock_Secesor_Paper)
 - [Project 2: Project Name](#project-2-project-name)
 - [Project 3: Project Name](#project-3-project-name)
 - [Installation](#installation)
