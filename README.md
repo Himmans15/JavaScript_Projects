@@ -14,7 +14,7 @@ Welcome to my collection of JavaScript mini projects! This repository contains v
 
 ## Projects
 
-### Project 1: Project Name
+### Project 1: Rock_Secesor_Paper
 
 - **Description**: A short description of the project and its purpose.
 - **Key Features**: Highlight key features of the project.
