@@ -26,7 +26,7 @@ Welcome to my collection of JavaScript mini projects! This repository contains v
   1. Clone the repository.
   2. Open `index.html` in your browser.
 
-### Project 2: Project Name
+### Project 2: Todo_List
 
 - **Description**: A short description of the project and its purpose.
 - **Key Features**: Highlight key features of the project.
