@@ -16,7 +16,7 @@ Welcome to my collection of JavaScript mini projects! This repository contains v
 
 ### Project 1: Rock_Secesor_Paper
 
-- **Description**: A short description of the project and its purpose.
+- **Description**: The RockSeccesorPaper project is a simple web game built with HTML, CSS, and JavaScript, where users play Rock, Paper, Scissors against the computer. It features interactive buttons, dynamic results, and basic game logic.
 - **Key Features**: Highlight key features of the project.
   - Feature 1
   - Feature 2
