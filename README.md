@@ -24,7 +24,6 @@ Welcome to my collection of JavaScript mini projects! This repository contains v
   - Simple and responsive design using HTML and CSS.
   - Interactive gameplay with JavaScript for logic handling.
 - **Technologies Used**: JavaScript, HTML, CSS, etc.
-- **Technologies Used**: JavaScript, HTML, CSS, etc.
 - **How to Run**:
   1. Clone the repository.
   2. Open `index.html` in your browser.
