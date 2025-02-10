@@ -30,11 +30,13 @@ Welcome to my collection of JavaScript mini projects! This repository contains v
 
 ### Project 2: Todo_List
 
-- **Description**: A short description of the project and its purpose.
+- **Description**: A simple and interactive To-Do List app built using HTML, CSS, and JavaScript. This app allows users to easily add, edit, delete, and mark tasks as completed. With a clean and minimal design, it provides an intuitive interface for managing tasks and staying organized.
 - **Key Features**: Highlight key features of the project.
-  - Feature 1
-  - Feature 2
-  - Feature 3
+  - Add, edit, and delete tasks.
+  - Mark tasks as complete or incomplete.
+  - Store tasks in local storage.
+  - Responsive and mobile-friendly design.
+  - Simple and clean user interface.
 - **Technologies Used**: JavaScript, HTML, CSS, etc.
 - **How to Run**:
   1. Clone the repository.
